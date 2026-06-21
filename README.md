@@ -76,6 +76,7 @@ journalist-skill/
 │   └── search_helper.py     # 采访辅助搜索脚本
 ├── evals/
 │   └── test-prompts.json    # 测试场景
+├── CONTRIBUTING.md          # 贡献指南
 ├── LICENSE                  # MIT 许可证
 └── README.md
 ```

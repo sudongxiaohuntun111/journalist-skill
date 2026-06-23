@@ -1,9 +1,12 @@
-node_modules/
-__pycache__/
-*.pyc
+# 版本备份文件
+*.bak
+
+# 本地复盘记录（用户数据，不纳入版本控制）
+/record/mechanism-a/*
+/record/mechanism-c/*
+/record/migrated/*
+!/record/.gitkeep
+
+# 系统文件
 .DS_Store
-.idea/
-.vscode/
-*.swp
-*.swo
-*~
+Thumbs.db
